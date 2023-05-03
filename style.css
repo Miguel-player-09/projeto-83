@@ -1,5 +1,5 @@
-.body_Background {
-    background-image: url("./bg1.jpg");
+.bodyBackground {
+    background-image: url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
     background-position: center;
     background-size: cover;
   }
@@ -30,4 +30,3 @@
   {
     margin-right: 20px;
   }
-  
